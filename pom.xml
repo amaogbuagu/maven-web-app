@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.142.249.217:8081/repository/win-release/</url>
+	      <url>http://localhost:8081/repository/imos-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository</name>
-	      <url>http://3.142.249.217:8081/repository/win-snapshot/</url>
+	      <url>http://localhost:8081/repository/imos-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
