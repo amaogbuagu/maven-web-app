@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.119.102.46:8081/repository/booster-release/</url>
+	      <url>http://3.14.135.193:8081/repository/zoom-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository</name>
-	      <url>http://18.119.102.46:8081/repository/booster-snapshot/</url>
+	      <url>http://3.14.135.193:8081/repository/zoom-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
