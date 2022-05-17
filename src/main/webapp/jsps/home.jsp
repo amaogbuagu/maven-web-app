@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Landmark Technologies</h1>
-<h2 align="center"> Welcome to STOCKBRIDGE. 
+<h2 align="center"> Welcome to AMA. 
 	STOCKBRIDGE is the future of DevOps and Cloud Engineers. 
 	We offer interview preparations and job assitance.
 	God please retore in double fold.  HE IS OUR SUCCESS ACCESS KEY</h2>
